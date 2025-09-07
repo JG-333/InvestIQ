@@ -5,12 +5,12 @@ A full-stack, multi-agent, real-time **financial portfolio tracker** powered by 
 
 ## Features
 
-- 🔍 **Natural Language Portfolio Queries** via Gemini API
-- 💹 **Real-time Financial Data** from Alpha Vantage and yfinance
-- 🧠 **Prescriptive AI Engine** with DoWhy + Monte Carlo simulation 
-- 📊 **Interactive Portfolio Dashboard** (TailwindCSS + Recharts)
-- 🔄 **Live Updates** via WebSocket integration
-- 🗣️ **Human-readable Explanations** powered by LLM
+- **Natural Language Portfolio Queries** via Gemini API
+- **Real-time Financial Data** from Alpha Vantage and yfinance
+- **Prescriptive AI Engine** with DoWhy + Monte Carlo simulation 
+- **Interactive Portfolio Dashboard** (TailwindCSS + Recharts)
+- **Live Updates** via WebSocket integration
+- **Human-readable Explanations** powered by LLM
 
 
 ## Tech Stack 
