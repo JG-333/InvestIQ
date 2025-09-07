@@ -1,6 +1,6 @@
 # InvestIQ: AI-Driven Portfolio Monitoring & Prescriptive Analytics
 
-A full-stack, multi-agent, real-time **financial portfolio tracker** powered by **Python, FastAPI**, **Gemini API**, **Alpha Vantage**, **yfinance**, and a modern **React + Tailwind frontend**. Designed to simulate, monitor, and give prescriptive advice for investment portfolios using causal inference and Monte Carlo simulations.  
+A multi-agent, real-time **financial portfolio tracker** powered by **Python, FastAPI**, **Gemini API**, **Alpha Vantage**, **yfinance**, and a modern **React + Tailwind frontend**. Designed to simulate, monitor, and give prescriptive advice for investment portfolios using causal inference and Monte Carlo simulations.  
 
 
 ## Features
