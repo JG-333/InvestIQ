@@ -23,21 +23,6 @@ A full-stack, multi-agent, real-time **financial portfolio tracker** powered by 
 - **Real-Time Updates:** WebSocket (FastAPI ↔ React)    
 
 
-## System Architecture
-
-User (Browser)
-  ↕ WebSocket / HTTP
-React Frontend (portfolio input + scenario sliders)
-  ↕ HTTP JSON
-FastAPI Backend
-  ↕ Async calls
-Agentic Pipeline:
-  • Gemini LLM → parse query + generate summary
-  • Alpha Vantage / yfinance → portfolio prices & trends
-  • Monte Carlo Simulation → project portfolio performance
-  • Gemini LLM → recommendations & explanations
-
-
 ## Core Capabilities
 
 - **Input**: Queries on financial data
