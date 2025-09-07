@@ -13,16 +13,14 @@ A full-stack, multi-agent, real-time **financial portfolio tracker** powered by 
 - **Human-readable Explanations** powered by LLM
 
 
-## Tech Stack 
+## Tech Stack
 
- Layer             : Technology                       
-___________________________________________________
- Backend API       : Python, FastAPI, WebSockets      
- Stock Data        : Alpha Vantage API, yfinance      
- LLM Integration   : Google Gemini / PaLM API         
- AI Inference      : DoWhy, NumPy (Monte Carlo)       
- Frontend UI       : React, TailwindCSS, Recharts     
- Real-Time Updates : WebSocket (FastAPI ↔ React)      
+- **Backend API:** Python, FastAPI, WebSockets  
+- **Stock Data:** Alpha Vantage API, yfinance  
+- **LLM Integration:** Google Gemini / PaLM API  
+- **AI Inference:** DoWhy, NumPy (Monte Carlo)  
+- **Frontend UI:** React, TailwindCSS, Recharts  
+- **Real-Time Updates:** WebSocket (FastAPI ↔ React)    
 
 
 ## System Architecture
